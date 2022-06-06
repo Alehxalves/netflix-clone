@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+}
+
+.app {
+  background-color: #111;
+}
+
+.footer {
+  text-align: center;
+  color: white;
+  font-size: .5rem;
+  font-weight: 800;
+}
+

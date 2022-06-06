@@ -1,0 +1,8 @@
+Netflix clone front-end, projeto demo utilizando react-js, firebase e a API do The movie DB.
+Este projeto foi criado por Clever Programmer, https://www.youtube.com/watch?v=XtMThy8QKqU&ab_channel=CleverProgrammer
+
+Estou fazendo este projeto para aprimorar e desenvolver conhecimentos sobre desenvolvimento web.
+
+[tmdb api key = d75cf304f7cc71fad39102b7ee47f926]
+Exemplo Req = https://api.themoviedb.org/3/movie/550?api_key=d75cf304f7cc71fad39102b7ee47f926
+
