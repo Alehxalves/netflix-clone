@@ -25,7 +25,6 @@ function Row({ title, fetchUrl, isLargeRow }) {
     } else {
       setShowDecription(true);
       setMovie(movie);
-      console.log(isLargeRow);
     }
   };
   return (

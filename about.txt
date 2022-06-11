@@ -6,3 +6,10 @@ Estou fazendo este projeto para aprimorar e desenvolver conhecimentos sobre dese
 [tmdb api key = d75cf304f7cc71fad39102b7ee47f926]
 Exemplo Req = https://api.themoviedb.org/3/movie/550?api_key=d75cf304f7cc71fad39102b7ee47f926
 
+
+steps to deploy:
+1. firebase init
+2. choose hosting
+3. type build
+4. npm run build
+5. firebase deploy
